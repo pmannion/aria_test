@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c1a828-279f-44a3-a95d-3eeb24f1a7ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/ConverterSpec.js" afterPath="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/the-fonz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/asset_manip.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,16 +31,25 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="133" selection-start="2430" selection-end="2430" vertical-scroll-proportion="-6.9615383" vertical-offset="720" max-vertical-offset="1751">
+            <state line="89" column="58" selection-start="5104" selection-end="5104" vertical-scroll-proportion="-16.73077" vertical-offset="1078" max-vertical-offset="1921">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="asset_manip.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/asset_manip.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="1" selection-start="31" selection-end="54" vertical-scroll-proportion="0.028239202" vertical-offset="0" max-vertical-offset="602">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
+            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
               <folding />
             </state>
           </provider>
@@ -76,7 +85,7 @@
       <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="36" selection-start="459" selection-end="459" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="561">
+            <state line="15" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="561">
               <folding />
             </state>
           </provider>
@@ -85,7 +94,7 @@
       <file leaf-file-name="ConverterSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+            <state line="14" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
@@ -115,8 +124,10 @@
       <list>
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/js/numbers.js" />
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
+        <option value="$PROJECT_DIR$/js/asset_manip.js.html" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/js/asset_manip.js" />
       </list>
     </option>
   </component>
@@ -231,11 +242,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\img" />
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test" />
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test\spec" />
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test\css" />
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test\js" />
-      <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test" />
@@ -382,7 +393,11 @@
       <created>1395862414649</created>
       <updated>1395862414649</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="php file added for push to heroku&#10;">
+      <created>1395862974541</created>
+      <updated>1395862974541</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -427,7 +442,8 @@
     <MESSAGE value="jasmine added&#10;" />
     <MESSAGE value="jasmine added&#10;spans added to calculator buttons&#10;" />
     <MESSAGE value="inline js added to buttons , will replace with external - time issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="inline js added to buttons , will replace with external - time issue" />
+    <MESSAGE value="php file added for push to heroku&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="php file added for push to heroku&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -461,30 +477,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="459" selection-end="459" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="133" selection-start="2430" selection-end="2430" vertical-scroll-proportion="-6.9615383" vertical-offset="720" max-vertical-offset="1751">
+        <state line="14" column="0" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="58" selection-start="5104" selection-end="5104" vertical-scroll-proportion="-16.73077" vertical-offset="1078" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/asset_manip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="1" selection-start="31" selection-end="54" vertical-scroll-proportion="0.028239202" vertical-offset="0" max-vertical-offset="602">
           <folding />
         </state>
       </provider>
