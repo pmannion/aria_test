@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c1a828-279f-44a3-a95d-3eeb24f1a7ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/the-fonz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/asset_manip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="aria_test.iws" />
@@ -397,7 +394,11 @@
       <created>1395862974541</created>
       <updated>1395862974541</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cool picture added&#10;layout altered for image&#10;">
+      <created>1395863579710</created>
+      <updated>1395863579710</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,7 +444,8 @@
     <MESSAGE value="jasmine added&#10;spans added to calculator buttons&#10;" />
     <MESSAGE value="inline js added to buttons , will replace with external - time issue" />
     <MESSAGE value="php file added for push to heroku&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="php file added for push to heroku&#10;" />
+    <MESSAGE value="cool picture added&#10;layout altered for image&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="cool picture added&#10;layout altered for image&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
