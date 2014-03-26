@@ -23,7 +23,6 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Link</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
@@ -42,11 +41,13 @@
                                 <input type="text" name="display" id="screen" class="form-control">
                             </div>
                         </div>
-
+                         <!-- seperator -->
                         <div class="row-fluid span8">
 
                         </div>
+                        <!-- end seperator -->
 
+                        <!-- row for numbers -->
                         <div class="row-fluid span12">
                             <div class="btn-group">
                                 <button type="button" name="seven" class="btn btn-large btn-info span2"  onclick="addChar(this.form.display, '7')"> 7</button>
@@ -55,7 +56,10 @@
                                 <button type="button" name= "minus" class="btn btn-large btn-warning span4"  onclick="addChar(this.form.display, '-')"> -</button>
                             </div>
                         </div>
+                        <!-- end row for numbers -->
 
+
+                        <!-- row for numbers -->
                         <div class="row-fluid span12">
                             <div class="btn-group">
                                 <button type="button" name= "four" class="btn btn-large btn-info span2"  onclick="addChar(this.form.display, '4')"> 4</button>
@@ -64,7 +68,10 @@
                                 <button type="button"  name= "plus" class="btn btn-large btn-warning span4"   onclick="addChar(this.form.display, '+')" > +</button>
                             </div>
                         </div>
+                        <!-- end row for numbers -->
 
+
+                        <!-- row for numbers -->
                         <div class="row-fluid span12">
                             <div class="btn-group">
                                 <button type="button" name= "one" class="btn btn-large btn-info span2"  onclick="addChar(this.form.display, '1')"> 1</button>
@@ -74,6 +81,9 @@
                             </div>
                         </div>
 
+                        <!-- end row for numbers -->
+
+                        <!-- row for numbers -->
                         <div class="row-fluid span12">
                             <div class="btn-group">
                                 <button type="button" name= "zero" class="btn btn-large btn-info span2"  onclick="addChar(this.form.display, '0')"> 0</button>
@@ -82,17 +92,19 @@
                                 <button type="button" name= "equal" class="btn btn-large btn-success span4" ONCLICK="if (checkNum(this.form.display.value)) { compute(this.form) }"> =</button>
                             </div>
                         </div>
-
+                        <!-- end row for numbers -->
 
                     </form>
                 </div>
+
+                <!-- row fow for images -->
                 <div class="row-fluid span6">
                     <img src="img/the-fonz.jpg" id="the-fonz"/>
+                    <img src="img/the-fonz-not-cool.jpg" id="the-fonz-1"/>
                 </div>
+                <!-- end image row -->
 
             </div>
-
-
         </div>
     </div>
 </div>
@@ -100,7 +112,6 @@
 </body>
 </html>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"> </script>
-
-<script src="test/js/calculate.js"></script>
+<script src="js/calculate.js"></script>
 <script src="js/asset_manip.js"></script>
 

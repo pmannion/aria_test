@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6c1a828-279f-44a3-a95d-3eeb24f1a7ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/Calculate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/calculate.js" />
-      <change type="DELETED" beforePath="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test\spec\ConverterSpec.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/the-fonz-not-cool.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/spec/calculate.js" afterPath="$PROJECT_DIR$/test/spec/calculate.js" />
+      <change type="MOVED" beforePath="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test\js\calculate.js" afterPath="$PROJECT_DIR$/js/calculate.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/SpecRunner.html" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/asset_manip.js" afterPath="$PROJECT_DIR$/js/asset_manip.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
@@ -31,19 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="21" selection-start="5367" selection-end="5367" vertical-scroll-proportion="-17.884615" vertical-offset="1235" max-vertical-offset="1904">
+            <state line="26" column="65" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.44142616" vertical-offset="182" max-vertical-offset="2091">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="calculate.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/js/calculate.js">
+        <entry file="file://$PROJECT_DIR$/js/calculate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="9" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+            <state line="29" column="88" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
@@ -52,7 +52,7 @@
       <file leaf-file-name="asset_manip.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/asset_manip.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="2" selection-start="35" selection-end="57" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="272">
+            <state line="5" column="18" selection-start="76" selection-end="76" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -94,19 +94,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="42" selection-start="579" selection-end="579" vertical-scroll-proportion="0.59302324" vertical-offset="0" max-vertical-offset="602">
+            <state line="25" column="41" selection-start="618" selection-end="618" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="561">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Calculate.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/spec/Calculate.js">
+      <file leaf-file-name="calculate.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/spec/calculate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="69" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+            <state line="11" column="31" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -134,13 +134,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/js/numbers.js" />
         <option value="$PROJECT_DIR$/js/asset_manip.js.html" />
-        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
+        <option value="$PROJECT_DIR$/test/SpecRunner.html" />
+        <option value="$PROJECT_DIR$/test/spec/calculate.js" />
         <option value="$PROJECT_DIR$/js/asset_manip.js" />
         <option value="$PROJECT_DIR$/js/calculate.js" />
-        <option value="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -259,6 +260,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aria_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aria_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -280,6 +295,7 @@
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\js" />
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test\js" />
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\test" />
       <recent name="C:\Users\Paul\Desktop\NCI college\ARIA\aria_test\js\vendor" />
@@ -437,7 +453,11 @@
       <created>1395863620063</created>
       <updated>1395863620063</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="show fonzie for invalid entry">
+      <created>1395866359897</created>
+      <updated>1395866359897</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -485,7 +505,8 @@
     <MESSAGE value="php file added for push to heroku&#10;" />
     <MESSAGE value="cool picture added&#10;layout altered for image&#10;" />
     <MESSAGE value="cool image added&#10;layout changed for image&#10;jquery hide action for image" />
-    <option name="LAST_COMMIT_MESSAGE" value="cool image added&#10;layout changed for image&#10;jquery hide action for image" />
+    <MESSAGE value="show fonzie for invalid entry" />
+    <option name="LAST_COMMIT_MESSAGE" value="show fonzie for invalid entry" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -526,37 +547,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/calculate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="31" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/asset_manip.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="35" selection-end="57" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="272">
+        <state line="5" column="18" selection-start="76" selection-end="76" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/js/calculate.js">
+    <entry file="file://$PROJECT_DIR$/js/calculate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="9" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/spec/Calculate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="69" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="21" selection-start="5367" selection-end="5367" vertical-scroll-proportion="-17.884615" vertical-offset="1235" max-vertical-offset="1904">
+        <state line="29" column="88" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="42" selection-start="579" selection-end="579" vertical-scroll-proportion="0.59302324" vertical-offset="0" max-vertical-offset="602">
+        <state line="25" column="41" selection-start="618" selection-end="618" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="65" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.44142616" vertical-offset="182" max-vertical-offset="2091">
           <folding />
         </state>
       </provider>
