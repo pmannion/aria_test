@@ -51,7 +51,7 @@
                              <button type="button" name="seven" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '7'"> 7</button>
                              <button type="button" name= "eight" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '8'"> 8</button>
                              <button type="button" name= "nine" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '9'"> 9</button>
-                             <button type="button" name= "minus" class="btn btn-large btn-warning span4"> -</button>
+                             <button type="button" name= "minus" class="btn btn-large btn-warning span4"  OnClick="Calc.Input.value += ' + '"> -</button>
                          </div>
                      </div>
 
@@ -60,7 +60,7 @@
                         <button type="button" name= "four" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '4'"> 4</button>
                         <button type="button" name= "five" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '5'"> 5</button>
                         <button type="button" name= "six" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '6'"> 6</button>
-                        <button type="button"  name= "plus" class="btn btn-large btn-warning span4" > +</button>
+                        <button type="button"  name= "plus" class="btn btn-large btn-warning span4"  OnClick="Calc.Input.value += ' + '" > +</button>
                     </div>
                  </div>
 
@@ -69,7 +69,7 @@
                         <button type="button" name= "one" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '1'"> 1</button>
                         <button type="button" name= "two" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '2'"> 2</button>
                         <button type="button" name= "three" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '3'"> 3</button>
-                        <button type="button" name= "divide" class="btn btn-large btn-warning span4"> /</button>
+                        <button type="button" name= "divide" class="btn btn-large btn-warning span4" OnClick="Calc.Input.value += ' / '"> /</button>
                     </div>
                 </div>
 
@@ -77,8 +77,8 @@
                     <div class="btn-group">
                         <button type="button" name= "zero" class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '0'"> 0</button>
                         <button type="button" name= "decimal "class="btn btn-large btn-info span2" OnCLick="Calc.Input.value += '.'"> .</button>
-                        <button type="button" name= "multi" class="btn btn-large btn-info span2"> x</button>
-                        <button type="button" name= "equal" class="btn btn-large btn-success span4"> =</button>
+                        <button type="button" name= "multi" class="btn btn-large btn-info span2" OnClick="Calc.Input.value += ' / '"> x</button>
+                        <button type="button" name= "equal" class="btn btn-large btn-success span4" OnClick="Calc.Input.value = eval(Calc.Input.value)"> =</button>
                     </div>
                 </div>
 
